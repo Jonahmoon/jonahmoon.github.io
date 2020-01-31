@@ -1,3 +1,3 @@
 Hello and welcome to jonahmoon's blog. 
 
-![Image of fast.ai logo](images/logo.png)
+![Just a Image](images/a_rob.png)
